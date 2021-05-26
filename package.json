@@ -1,0 +1,28 @@
+{
+  "name": "molecule2",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "blueimp-canvas-to-blob": "^3.7.0",
+    "bootstrap": "^3.3.7",
+    "chai": "^3.5.0",
+    "chai-things": "^0.2.0",
+    "d3": "^3.5.17",
+    "d3-molecule": "^1.2.0",
+    "file-saver": "^1.3.3",
+    "font-awesome": "^4.7.0",
+    "jquery": "^3.1.1",
+    "jquery-ui-dist": "^1.12.1",
+    "jsdom": "^9.11.0",
+    "jsoneditor": "^9.4.1",
+    "mocha": "^3.2.0",
+    "sinon": "^1.17.7",
+    "three": "^0.84.0"
+  }
+}
